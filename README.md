@@ -8,7 +8,7 @@
 繳交同學為 資策會MFEE17 前端班的16號 劉竹娟 同學。
 繳交內容為兩份如下。
 
-####作業1內容為:
+###### 作業1內容為:
 - 建立好 github repo: git-workshop
 - 撰寫 README.md 順練練習 markdown 語法
 - 為 git-workshop 建立 feature-login 的分支
@@ -19,7 +19,7 @@
 - 把 feature-login 分支 merge 進去 main/master
 - merge 後，push main/master
 
-####作業2內容為: 
+###### 作業2內容為: 
 - 觀看影片 https://www.youtube.com/watch?v=DgbSc6Ys710
 - 在 git-workshop 裡增加一個 video.md
 - 在 video.md 裡面寫心得
@@ -83,9 +83,9 @@ ___
 
 - 粗體語法
 ````bash=
-**斜體**
+**粗體**
 ````
-**斜體**
+**粗體**
 
 - 超連結 文字&圖片 語法
 ````bash=
